@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Alex! 👋
+
+💻 Incoming SWE Intern @ Toshiba | Prev @ Dematic, Carolina Experience Labs  
+🎓 B.S. Computer Science + B.A. Philosophy + Data Science Minor @ UNC (GPA: 3.76)  
+🚀 Building full-stack apps, cloud deployments, and AI integrations
+
+
+---
+*"I like to build, lift, and drum."*
 
 <!--
 **ahkim76/ahkim76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
