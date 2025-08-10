@@ -12,12 +12,13 @@
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/alex-h-kim) | [Email](mailto:alexhkim@ad.unc.edu)
 
+## 📈 About Me
+Passionate about solving problems through data structures and algorithms, and applying them to real-world projects. Outside of coding, I play drums, train for powerlifting, and explore new music.
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/poopitypoop?theme=dark&font=Karma)
 
 
 
----
-In my free time, I like to play drums, train for powerlifting, and listen to music!
 
 <!--
 **ahkim76/ahkim76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
