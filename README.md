@@ -12,6 +12,9 @@
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/alex-h-kim) | [Email](mailto:alexhkim@ad.unc.edu)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/poopitypoop9?theme=dark&font=Karma)
+
+
 
 ---
 In my free time, I like to play drums, train for powerlifting, and listen to music!
