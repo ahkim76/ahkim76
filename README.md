@@ -4,9 +4,17 @@
 🎓 B.S. Computer Science + B.A. Philosophy + Data Science Minor @ UNC (GPA: 3.76)  
 🚀 Building full-stack apps, cloud deployments, and AI integrations
 
+## 🛠 Tech Stack
+- **Languages:** Java, Python, JavaScript/TypeScript, C/C++
+- **Frameworks:** React, Next.js, Angular, Spring Boot, FastAPI
+- **Cloud & Tools:** PostgreSQL, Docker, Kubernetes, GCP, AWS, Terraform
+
+## 📫 Connect
+[LinkedIn]((https://www.linkedin.com/in/alex-h-kim/)) | [Email](mailto:alexhkim@ad.unc.edu)
+
 
 ---
-*"I like to build, lift, and drum."*
+In my free time, I like to play drums, train for powerlifting, and listen to music!
 
 <!--
 **ahkim76/ahkim76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
