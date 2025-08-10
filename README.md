@@ -10,7 +10,7 @@
 - **Cloud & Tools:** PostgreSQL, Docker, Kubernetes, GCP, AWS, Terraform
 
 ## 📫 Connect
-[LinkedIn]((https://www.linkedin.com/in/alex-h-kim/)) | [Email](mailto:alexhkim@ad.unc.edu)
+[LinkedIn](https://linkedin.com/in/alex-h-kim) | [Email](mailto:alexhkim@ad.unc.edu)
 
 
 ---
