@@ -12,7 +12,7 @@
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/alex-h-kim) | [Email](mailto:alexhkim@ad.unc.edu)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/poopitypoop9?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/poopitypoop?theme=dark&font=Karma)
 
 
 
