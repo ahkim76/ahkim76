@@ -13,7 +13,7 @@
 [LinkedIn](https://linkedin.com/in/alex-h-kim) | [Email](mailto:alexhkim@ad.unc.edu)
 
 ## 📈 About Me
-Passionate about solving problems through data structures and algorithms, and applying them to real-world projects. Outside of coding, I play drums, train for powerlifting, and explore new music.
+I'm passionate about solving problems through various data structures and algorithms, and applying them to real-world projects! Outside of coding, I play drums, train for powerlifting, and explore new music.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/poopitypoop?theme=dark&font=Karma)
 
