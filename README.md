@@ -1,13 +1,13 @@
 ## Hi, I'm Alex! 👋
 
-💻 Incoming SWE Intern @ Toshiba | Prev @ Dematic, Carolina Experience Labs  
-🎓 B.S. Computer Science + B.A. Philosophy + Data Science Minor @ UNC (GPA: 3.76)  
+💻 Software & AI Engineer Intern @ Toshiba | Prev SWE Intern @ Dematic, Carolina Experience Labs  
+🎓 B.S. Computer Science + B.A. Philosophy + Data Science Minor @ UNC (GPA: 3.8)  
 🚀 Building full-stack apps, cloud deployments, and AI integrations
 
 ## 🛠 Tech Stack
-- **Languages:** Java, Python, JavaScript/TypeScript, C/C++
-- **Frameworks:** React, Next.js, Angular, Spring Boot, FastAPI
-- **Cloud & Tools:** PostgreSQL, Docker, Kubernetes, GCP, AWS, Terraform
+- **Languages:** Java, Python, JavaScript/TypeScript, C/C++, HTML/CSS
+- **Frameworks:** React, Next.js, Angular, Node, Spring Boot, FastAPI, Django
+- **Cloud & Tools:** PostgreSQL, Docker, Kubernetes, GCP, AWS, Terraform, Helm
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/alex-h-kim) | [Email](mailto:alexhkim@ad.unc.edu)
