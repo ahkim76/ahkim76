@@ -1,11 +1,11 @@
 ## Hi, I'm Alex! 👋
 
-- 💻 SWE Intern @ Stripe | Machine Learning Engineer @ Mercor | Prev SWE Intern @ Dematic, Toshiba
+- 💻 SWE Intern @ Stripe | Incoming @ Apple | MLE @ Mercor | Prev SWE Intern @ Dematic, Toshiba
 - 🎓 B.S. Computer Science + Minors in Data Science & Philosophy @ UNC (GPA: 3.8)  
 - 🚀 Building full-stack apps, cloud deployments, and infrastructure
 
 ## 🛠 Tech Stack
-- **Languages:**  Python, Java, Go, JavaScript/TypeScript, C/C++, HTML/CSS, 
+- **Languages:**  Python, Java, Go, Ruby, JavaScript/TypeScript, C/C++, HTML/CSS, 
 - **Frameworks:** React, Next.js, Angular, Node, Spring Boot, FastAPI, Django
 - **Cloud & Tools:** PostgreSQL, Docker, Kubernetes, GCP, AWS, Terraform, Helm
 
