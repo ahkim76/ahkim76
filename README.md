@@ -1,13 +1,9 @@
-## Hi, I'm Alex! 👋
+## Hi
 
 - 💻 MTS Intern @ OpenAI | Prev SWE Intern @ Stripe, Apple, Dematic, Toshiba
 - 🎓 B.A. Computer Science + Minors in Data Science & Philosophy @ UNC (GPA: 3.6)  
 - 🚀 Building full-stack apps, cloud deployments, and infrastructure
 
-## 🛠 Tech Stack
-- **Languages:**  Python, Java, Go, Ruby, JavaScript/TypeScript, C/C++, HTML/CSS, 
-- **Frameworks:** React, Next.js, Angular, Node, Spring Boot, FastAPI, Django
-- **Cloud & Tools:** PostgreSQL, Docker, Kubernetes, GCP, AWS, Terraform, Helm
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/alex-h-kim) | [Email](mailto:alexhkim@ad.unc.edu)
