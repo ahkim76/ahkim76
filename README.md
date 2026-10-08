@@ -1,7 +1,7 @@
 ## Hi, I'm Alex! 👋
 
-- 💻 SWE Intern @ Stripe | Incoming @ Apple | MLE @ Mercor | Prev SWE Intern @ Dematic, Toshiba
-- 🎓 B.S. Computer Science + Minors in Data Science & Philosophy @ UNC (GPA: 3.8)  
+- 💻 MTS Intern @ OpenAI | Prev SWE Intern @ Stripe, Apple, Dematic, Toshiba
+- 🎓 B.S. Computer Science + Minors in Data Science & Philosophy @ UNC (GPA: 3.6)  
 - 🚀 Building full-stack apps, cloud deployments, and infrastructure
 
 ## 🛠 Tech Stack
